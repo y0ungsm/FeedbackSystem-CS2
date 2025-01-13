@@ -1,0 +1,20 @@
+﻿{
+  "Prefix": "[{GOLD}FEEDBACK{BLUE}SYSTEM{WHITE}]",
+  "CommandCooldownMessage": "{GOLD}Musisz odczekać {RED}{0} {GOLD}sekund, przed ponownym użyciem komendy.",
+  "FeedbackSendMessage": "{RED}Dziękujemy za opinię, jest ona dla nas bardzo ważna, ponieważ pomaga nam w dalszym doskonaleniu się jako społeczności.",
+  "InvalidMessage": "{RED}Musisz wysłać wiadomość składającą się z co najmniej 5 liter.",
+  "NoPlayer": "{RED}Tej komendy może użyć tylko gracz!",
+  
+  "EmbedAuthorName": "FeedbackSystem stworzony przez luca.uy",
+  "EmbedTitle": "Nowa opinia została wysłana!",
+  "EmbedDescription": "Użytkownik przesłał nam nową opinię, jej treść możesz zobaczyć poniżej.",
+  "EmbedFooterText": "Powered by FeedbackSystem",
+
+  "HostnameField": "Serwer 🖥️",
+  "IPField": "IP 🌍",
+  "PlayerSendField": "Wysłano przez 👥",
+  "FeedbackMessage": "Opinia",
+
+  "UnknownPlayer": "Nieznany",
+  "UnknownIP": "Nieznany"
+}
